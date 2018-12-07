@@ -59,6 +59,9 @@ MEI15-Kinect二维码论文
 * 2018.12.6  
 结构光的编码与解码研究_赵婷婷
 
+* 2018.12.6 ~ 2018.12.7  
+3D object modeling by structured light and stereo vision
+
 
 
 # 标定 #
