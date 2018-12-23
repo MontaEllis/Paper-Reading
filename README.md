@@ -7,6 +7,12 @@ MEI15-Kinect二维码论文
 
 
 
+# SLAM #
+* 2018.12.20 ~ 2018.12.23  
+SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
+
+
+
 # 综述 #
 * 2018.12.10 ~ 2018.12.11  
 基于视觉的三维重建关键技术研究综述_郑太雄
