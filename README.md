@@ -43,6 +43,12 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 
 
 
+# 医学图像 #
+* 2018.12.19 ~ 2019.1.21  
+Vascular segmentation of head phase-contrast magnetic resonance angiograms using grayscale and shape features_Ruoxiu Xiao
+
+
+
 # 模板匹配 #
 * 2018.11.10 ~ 2018.11.20  
 图像匹配方法研究与应用_肖若秀
