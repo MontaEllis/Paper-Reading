@@ -47,6 +47,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2018.12.19 ~ 2019.1.21  
 Vascular segmentation of head phase-contrast magnetic resonance angiograms using grayscale and shape features_Ruoxiu Xiao
 
+* 2019.1.22 ~ 2019.1.25  
+Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multiple-feature-fusion_Ruoxiu Xiao
+
 
 
 # 模板匹配 #
