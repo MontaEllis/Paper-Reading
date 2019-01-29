@@ -14,6 +14,9 @@ MEI15-Kinect二维码论文
 * 2018.12.20 ~ 2018.12.23  
 SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 
+* 2019.1.27 ~ 2019.1.29  
+基于ORB特征的视觉里程计与建图研究_王慧国
+
 
 
 # 综述 #
