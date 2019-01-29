@@ -17,6 +17,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.1.27 ~ 2019.1.29  
 基于ORB特征的视觉里程计与建图研究_王慧国
 
+* 2019.1.29  
+基于双目立体视觉的空间稀疏特征环境建图研究_林炜
+
 
 
 # 综述 #
