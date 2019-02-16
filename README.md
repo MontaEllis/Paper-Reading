@@ -24,6 +24,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.2.14 ~ 2019.2.15  
 基于双目视觉的智能汽车分布式SLAM技术研究_蔡育展
 
+* 2019.2.15 ~ 2019.2.16  
+基于双目视觉的移动机器人地图创建方法的研究_彭建建
+
 
 
 # 综述 #
