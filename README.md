@@ -20,7 +20,6 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.1.29  
 基于双目立体视觉的空间稀疏特征环境建图研究_林炜
 
-
 * 2019.2.14 ~ 2019.2.15  
 基于双目视觉的智能汽车分布式SLAM技术研究_蔡育展
 
