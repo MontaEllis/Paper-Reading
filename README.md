@@ -26,6 +26,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.2.15 ~ 2019.2.16  
 基于双目视觉的移动机器人地图创建方法的研究_彭建建
 
+* 2019.2.17 ~ 2019.2.18  
+基于双目视觉的实时定位与建图方法研究_卢亚兵
+
 
 
 # 综述 #
