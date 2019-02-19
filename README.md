@@ -70,12 +70,15 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 
 
-# 模板匹配 #
+# 模板匹配与特征 #
 * 2018.11.10 ~ 2018.11.20  
 图像匹配方法研究与应用_肖若秀
 
 * 2018.11.20  
 基于融合动态模板匹配的双目测距算法_史珂路
+
+* 2019.2.19  
+基于主方向的旋转不变HOG特征_罗滨
 
 
 
