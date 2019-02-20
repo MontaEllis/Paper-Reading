@@ -107,6 +107,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2018.12.6 ~ 2018.12.7  
 3D object modeling by structured light and stereo vision
 
+* 2019.2.19 ~ 2019.2.20  
+基于双目结构光的三维重建技术研究_武彦飞
+
 
 
 # 标定 #
