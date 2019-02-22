@@ -110,6 +110,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2019.2.19 ~ 2019.2.20  
 基于双目结构光的三维重建技术研究_武彦飞
 
+* 2019.2.21 ~ 2019.2.22  
+基于结构光和双目视觉的工件3D重建与测量_喻杨
+
 
 
 # 标定 #
