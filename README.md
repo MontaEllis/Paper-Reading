@@ -166,3 +166,6 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 * 2019.1.29  
 3D_SLAM的室内背包移动测量系统研究_宋凯
+
+* 2019.3.2  
+结构光双目视觉重构系统的研究_揭平良
