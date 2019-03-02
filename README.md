@@ -169,3 +169,6 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 * 2019.3.2  
 结构光双目视觉重构系统的研究_揭平良
+
+* 2019.3.2  
+基于双目立体视觉的目标测距系统_沈彤
