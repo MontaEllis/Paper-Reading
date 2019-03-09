@@ -178,3 +178,6 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 * 2019.3.2  
 基于双目立体视觉的目标测距系统_沈彤
+
+* 2019.3.9  
+基于OpenCV的立体匹配算法的研究与实现_李健
