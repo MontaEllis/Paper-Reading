@@ -125,6 +125,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2019.3.8  
 基于双目视觉的三维测量及可视化技术研究_张强
 
+* 2019.3.8  
+双目CCD结构光三维测量系统中的立体匹配
+
 
 
 # 标定 #
