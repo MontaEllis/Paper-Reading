@@ -134,6 +134,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2019.3.10  
 双目视觉与编码结构光结合的三维重建技术的研究_李学锋
 
+* 2019.3.11 ~ 2019.3.13  
+格雷码结合相移的编码结构光三维重建技术研究
+
 
 
 # 标定 #
