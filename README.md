@@ -29,6 +29,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.2.17 ~ 2019.2.18  
 基于双目视觉的实时定位与建图方法研究_卢亚兵
 
+* 2019.3.14 ~ 2019.3.16  
+AGV视觉定位系统的设计与实现_于亦奇
+
 
 
 # 综述 #
