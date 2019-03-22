@@ -91,6 +91,12 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 
 
+# GVF #
+* 2019.3.22  
+基于GVF_Snake模型的舌像分割研究_高清河
+
+
+
 # 结构光 #
 * 2018.11.21 ~ 2018.11.26  
 基于结构光和双目视觉的三维重建系统研究_赵焕谦
