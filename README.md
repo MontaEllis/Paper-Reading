@@ -32,6 +32,9 @@ SemanticFusion Dence 3D Semantic Mapping with Convolutional Neural Networks
 * 2019.3.14 ~ 2019.3.16  
 AGV视觉定位系统的设计与实现_于亦奇
 
+* 2019.3.25 ~ 2019.3.26  
+基于视觉的实时三维建模与定位研究_余辉亮
+
 
 
 # 综述 #
