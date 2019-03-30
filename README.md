@@ -80,6 +80,9 @@ Vascular segmentation of head phase-contrast magnetic resonance angiograms using
 * 2019.1.22 ~ 2019.1.25  
 Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multiple-feature-fusion_Ruoxiu Xiao
 
+* 2019.3.29 ~ 2019.3.30  
+基于隐马尔可夫模型的脑血管三维结构重建
+
 
 
 # 模板匹配与特征 #
