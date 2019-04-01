@@ -223,3 +223,6 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 * 2019.3.22  
 双目立体匹配算法的研究与进展
+
+* 2019.3.29 ~ 2019.4.1  
+基于SLAM系统的准稠密三维重建_王博实
