@@ -232,3 +232,6 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 
 * 2019.3.29 ~ 2019.4.1  
 基于SLAM系统的准稠密三维重建_王博实
+
+* 2019.4.5  
+仿生液压四足机器人双目视觉导航系统关键技术研究_朱颖
