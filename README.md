@@ -89,6 +89,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2019.3.29 ~ 2019.3.30  
 基于隐马尔可夫模型的脑血管三维结构重建
 
+* 2019.4.6  
+基于高斯_马尔科夫随机场模型的脑血管分割算法研究_曹容菲
+
 
 
 # 模板匹配与特征 #
