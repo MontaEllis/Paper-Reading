@@ -92,6 +92,9 @@ Cerebrovascular-segmentation-of-TOF-MRA-based-on-seed-pointdetection-and-multipl
 * 2019.4.6  
 基于高斯_马尔科夫随机场模型的脑血管分割算法研究_曹容菲
 
+* 2019.4.12  
+Segmentation_Algorithm_of_Brain_Vessel_Image
+
 
 
 # 模板匹配与特征 #
