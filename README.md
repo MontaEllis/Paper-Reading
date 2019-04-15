@@ -176,6 +176,9 @@ Segmentation_Algorithm_of_Brain_Vessel_Image
 * 2019.3.18  
 基于编码结构光的三维重建
 
+* 2019.4.15  
+3D reconstruction of complicated objects by gray code method
+
 
 
 # 标定 #
