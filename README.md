@@ -250,3 +250,6 @@ Segmentation_Algorithm_of_Brain_Vessel_Image
 
 * 2019.4.5  
 仿生液压四足机器人双目视觉导航系统关键技术研究_朱颖
+
+* 2019.4.19  
+Interactive 3D Brain Vessel Segmentation form an Example
