@@ -253,3 +253,6 @@ Segmentation_Algorithm_of_Brain_Vessel_Image
 
 * 2019.4.19  
 Interactive 3D Brain Vessel Segmentation form an Example
+
+* 2019.4.20  
+双目结构光视觉系统及三维重建方法实现_王良丹
