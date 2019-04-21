@@ -188,6 +188,9 @@ Segmentation_Algorithm_of_Brain_Vessel_Image
 * 2019.4.18  
 基于格雷码-相移技术的光学三维测量系统
 
+* 2019.4.21  
+基于双目立体视觉的三维测量系统的实现_吴琳琳
+
 
 
 # 标定 #
