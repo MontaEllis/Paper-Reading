@@ -107,6 +107,9 @@ Segmentation_Algorithm_of_Brain_Vessel_Image
 * 2019.4.26 ~ 2019.4.27  
 MRI脑部肿瘤分割及其三维重建_侯东奥
 
+* 2019.4.28 ~ 2019.4.29  
+Celebrovascular segmentation from TOF using stochastic models
+
 
 
 # 模板匹配与特征 #
