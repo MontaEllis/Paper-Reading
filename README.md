@@ -113,6 +113,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.4.30  
 基于小波边缘刻画与LBF水平集变分模型的图像分割_杨志巧
 
+* 2019.4.30  
+基于高斯_马尔科夫随机场模型的脑血管分割算法研究_曹容菲
+
 
 
 # 模板匹配与特征 #
