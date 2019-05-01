@@ -113,6 +113,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.4.30  
 基于小波边缘刻画与LBF水平集变分模型的图像分割_杨志巧
 
+* 2019.5.1  
+脑血管磁共振图像三维分割技术的研究_张栋
+
 
 
 # 模板匹配与特征 #
