@@ -116,6 +116,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.5.1  
 脑血管磁共振图像三维分割技术的研究_张栋
 
+* 2019.5.1  
+一种改进的隐马尔可夫随机场遥感影像分割算法_杨军
+
 
 
 # 模板匹配与特征 #
