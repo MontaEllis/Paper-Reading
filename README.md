@@ -119,6 +119,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.5.1  
 一种改进的隐马尔可夫随机场遥感影像分割算法_杨军
 
+* 2019.5.1  
+基于MAP_EM算法的医学图像分割技术研究_杨加臣
+
 
 
 # 模板匹配与特征 #
