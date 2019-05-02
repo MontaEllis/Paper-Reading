@@ -122,6 +122,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.5.1  
 基于MAP_EM算法的医学图像分割技术研究_杨加臣
 
+* 2019.5.2  
+MRA脑血管分割算法的设计与实现_马双
+
 
 
 # 模板匹配与特征 #
