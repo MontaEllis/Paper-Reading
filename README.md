@@ -125,6 +125,9 @@ Celebrovascular segmentation from TOF using stochastic models
 * 2019.5.2  
 MRA脑血管分割算法的设计与实现_马双
 
+* 2019.5.3  
+基于隐马尔可夫随机场的脊柱CT图像分割算法研究_匡瑞雪
+
 
 
 # 模板匹配与特征 #
