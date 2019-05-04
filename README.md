@@ -154,6 +154,12 @@ MRA脑血管分割算法的设计与实现_马双
 
 
 
+# 马尔可夫 #
+* 2019.5.4  
+GMM-Based_Hidden_Markov_Random_Field_for_Color_Image_and_3D_Volume_Segmentation
+
+
+
 # 结构光 #
 * 2018.11.21 ~ 2018.11.26  
 基于结构光和双目视觉的三维重建系统研究_赵焕谦
