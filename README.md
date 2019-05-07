@@ -235,6 +235,12 @@ GMM-Based_Hidden_Markov_Random_Field_for_Color_Image_and_3D_Volume_Segmentation
 
 
 
+# 论文 #
+* 2019.5.6 ~ 2019.5.7  
+How to Read a Paper
+
+
+
 # 没什么大用 #
 * ~ 2018.11.19  
 机器人双目测距算法研究_郭攀
