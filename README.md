@@ -310,3 +310,6 @@ Interactive 3D Brain Vessel Segmentation form an Example
 
 * 2019.4.20  
 双目结构光视觉系统及三维重建方法实现_王良丹
+
+* 2019.5.10  
+基于面结构光投影法的三维物体形状检测与重构系统
