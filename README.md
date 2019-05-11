@@ -233,6 +233,9 @@ GMM-Based_Hidden_Markov_Random_Field_for_Color_Image_and_3D_Volume_Segmentation
 * 2019.4.21  
 基于双目立体视觉的三维测量系统的实现_吴琳琳
 
+* 2019.5.10 ~ 2019.5.11  
+基于双目结构光的快速三维成像系统研究_俞宝清
+
 
 
 # 标定 #
