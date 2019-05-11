@@ -316,3 +316,6 @@ Interactive 3D Brain Vessel Segmentation form an Example
 
 * 2019.5.10  
 基于面结构光投影法的三维物体形状检测与重构系统
+
+* 2019.5.11  
+基于双目单视面和结构光的三维复原精度研究_黄治凡
