@@ -137,6 +137,9 @@ MRA脑血管分割算法的设计与实现_马双
 * 2019.5.6 ~ 2019.5.8  
 Segmentation of Brain MR Images Through a Hidden Markov Random Field Model and the Expectation-Maximization Algorithm
 
+* 2019.5.12  
+基于高斯混合模型和马尔科夫随机场的脑MR图像分割_杨俊
+
 
 
 # 模板匹配与特征 #
