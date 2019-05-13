@@ -239,6 +239,9 @@ GMM-Based_Hidden_Markov_Random_Field_for_Color_Image_and_3D_Volume_Segmentation
 * 2019.5.10 ~ 2019.5.11  
 基于双目结构光的快速三维成像系统研究_俞宝清
 
+* 2019.5.13  
+双目结构光三维成像系统研究_冯云
+
 
 
 # 标定 #
