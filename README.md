@@ -325,3 +325,6 @@ Interactive 3D Brain Vessel Segmentation form an Example
 
 * 2019.5.11  
 基于双目单视面和结构光的三维复原精度研究_黄治凡
+
+* 2019.5.19  
+双目视觉测量中三维坐标的求取方法研究
